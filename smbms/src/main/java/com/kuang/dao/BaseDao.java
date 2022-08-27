@@ -102,7 +102,7 @@ public class BaseDao {
             }
         }
 
-        return false;
+        return flag;
     }
 
 }
